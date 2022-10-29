@@ -1,16 +1,16 @@
 {
-"name": "99rachamember",
-"theme": "99racha member",
-"version": "1.4.5",
-"description": "99racha member ทางเข้าหลักเว็บสล็อตเว็บตรง อันดับ 1 รับโบนัสเครดิตฟรี",
-"keywords": [
-"99racha member",
-"99racha member เครดิตฟรี",
-"99racha member ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/99rachamember",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "99rachamember",
+  "theme": "99racha member",
+  "version": "1.5.0",
+  "description": "99racha member ทางเข้าหลักเว็บสล็อตเว็บตรง อันดับ 1 รับโบนัสเครดิตฟรี",
+  "keywords": [
+    "99racha member",
+    "99racha member เครดิตฟรี",
+    "99racha member ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/99rachamember",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
